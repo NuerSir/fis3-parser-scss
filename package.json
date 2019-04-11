@@ -1,0 +1,20 @@
+{
+  "name": "fis3-parser-scss",
+  "version": "1.0.6",
+  "description": "常用scss函数封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "scss",
+    "sass",
+    "node-sass"
+  ],
+  "author": "nuer",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^3.4.2"
+  }
+}
